@@ -1,0 +1,3 @@
+include ':mzclibrary'
+include ':app'
+rootProject.name = "MZCAndroidKit"
